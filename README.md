@@ -10,5 +10,5 @@ root-sağ: 5
 ## 2) Big-O :
 ```
 2) Big-O : 
-O(n*logn)
+O(  log(2)n ) : log 2 tabanında n'dir
 ```
