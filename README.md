@@ -4,8 +4,8 @@
 
 ## 1) Aşamalar:[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
 root: 7
-root-sol: 1
-root-sağ: 5
+root-sol: 5
+root-sağ: 8
 
 ## 2) Big-O :
 ```
